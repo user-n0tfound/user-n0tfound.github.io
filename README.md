@@ -1,2 +1,2 @@
-# sticker
-a simple website to host some simple vinyl sticker ideas that are simply simpler than simple.
+## sticker
+#Hey! glad you found this site. It is intended to be used to find stickers to cut.
