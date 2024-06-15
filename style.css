@@ -57,3 +57,7 @@ ul {
   padding: 0;
 text-align: left;
 }
+
+.topnav-right {
+  float: right;
+}
