@@ -1,7 +1,7 @@
 ;FLAVOR:Marlin
 ;TIME:157
 ;Filament used: 0.676628m
-;Layer height: 1.5
+;Layer height: 0.6
 ;Generated with Cura_SteamEngine 1.2.3
 M140 S70
 M104 S250
